@@ -1,0 +1,1 @@
+<p>Copyright &copy; Oleh Nikolenko</p>
